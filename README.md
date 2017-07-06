@@ -1,6 +1,6 @@
 Overscroll animation plugin 
 ==========================
-Overscroll animation adalah plugin unutk menampilkan animasi seperti milik android.overscroll animation using HTML, CSS, and vanilla JavaScript. If you are unfamiliar with this user feedback animation, you can see an example GIF.
+Overscroll animation is a plugin for showing animations like android.overscroll animation using HTML, CSS, and vanilla JavaScript. If you are unfamiliar with this user feedback animation, you can see an example GIF.
 
 -----
 ## LICENSE
@@ -10,7 +10,8 @@ Overscroll animation adalah plugin unutk menampilkan animasi seperti milik andro
 ### Screenshot
 ![screen](https://raw.githubusercontent.com/rickhysis/f7-overscroll-animation/master/screenshot/oa.gif)
 
-### How to works
+
+## How to works
 
 1) Copy overscroll-animation.js to your project and reference them:
 
